@@ -3,7 +3,7 @@
 		"gateway_ID": "B827EBFFFE41F2F4", 
 		"servers": [ 
 			{ 
-				"server_address": "the router to which you   want to connect to", 
+				"server_address": "router.eu.thethings.network", 
 				"serv_port_up": 1700, 
 				"serv_port_down": 1700, 
 				"serv_enabled": true 
@@ -13,6 +13,6 @@
 		"ref_longitude": 76.60, 
 		"ref_altitude": 40, 
 		"contact_email": "mailtobilals@gmail.com", 
-		"description": "a short desciption" 
+		"description": "bilal btech project" 
 	} 
 }
